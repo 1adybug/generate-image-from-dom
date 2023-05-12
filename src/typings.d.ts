@@ -1,0 +1,1 @@
+declare function toPng(node: HTMLElement): Promise<string>
